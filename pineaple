@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>  
+        <meta charset="utf-8" />
+        <title>Gelee</title>
+        <link rel="stylesheet" href="estyles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="cabesa">
+            <header>
+                <h1>GELEE</h1>
+            </header>
+
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html">
+                            <img src="sources/iconmonstr-home-6.svg" height="25" width="25">
+                        </a>
+                    </li>
+ 
+                     <li>
+                         <a href="About us.html">
+                             <img src="sources/iconmonstr-friend-1.svg" height="25" width="25">
+                         </a>
+                     </li>
+                     <li>
+                         <a href="faq.html">
+                             <img src="sources/iconmonstr-help-5.svg" height="25" width="25">
+                         </a>
+                     </li>
+                </ul> 
+            </nav>
+            <div class="arregladorbisual"></div>
+            <section id="contenido2">
+                <article class="articulo">
+                    <h2>Product</h2>
+                    <p>Thanks for bought our pineapple jam:D</p>
+                    <img scr="sources/WhatsApp Image 2021-10-27 at 8.28.27 PM.jpeg">
+                </article>
+            </section>
+            <aside>
+                <h2>SHOP</h2>
+                <form>
+                    <p>NAME</p>
+                    <input type="text" name="name" required>
+                    <p>MAIL</p>
+                    <input type="email" name="email" required>
+                    <p>NUMBER</p>
+                    <input type="number" name="number" required>
+                    <button type="submit">BUY</button>
+               </form>
+            </aside>
+            <footer>
+                <p>Street 8<sup>th</sup> South #70 - 80 GELEE :D</p>
+            </footer>
+        </div>
+    </body>
+</html>
